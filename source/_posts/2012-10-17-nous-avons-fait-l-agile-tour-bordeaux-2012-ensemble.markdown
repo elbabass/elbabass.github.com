@@ -24,7 +24,7 @@ Il serait difficile de les citer tous, mais quelques-uns méritent mes plus sinc
 - [Jonathan Scher](http://slicesofit.com/amelioration-continue/) a pu partager ses points de vue lors d'une conférence, mais aussi avec l'équipe d'organisation plus tard dans la soirée. Nous en avons tous tiré de riches enseignements.
 - [Guillaume Saint Etienne](http://www.dotnetguru2.org/gse/index.php) est à applaudir pour son remplacement de dernière minute sur BDD. Je n'ai pu assister qu'à quelques minutes de cette conférence sur un sujet qui me tient pourtant à coeur.
 - [Thierry Cros](http://thierrycros.net/) a brillament éclairé l'assistance sur l'une des extensions naturelles de l'agilité : la sociocratie.
-- [Isabelle Monville](http://www.monville.com/) a donné aux agilistes les outils de communication pour réussir leurs projets, quels que soient leurs profils.
+- [Isabel Monville](http://www.monville.com/) a donné aux agilistes les outils de communication pour réussir leurs projets, quels que soient leurs profils.
 - [Guillaume Vincent](http://vincentguillaume.fr/) et [Sam Cranford](http://nostradamnit.com/) ont brillamment et courageusement présenté le refactoring dans une magnifique introduction au TDD en Python.
 - [Colin Garriga-Salaün](https://twitter.com/cgarrigasalaun) m'a fait rêver avec la présentation du modèle basé sur l'association de Yaal et Yuticket
 - Grâce à [Oana Juncu](http://oanasagile.blogspot.fr/), je me sens réconforté dans mon ancien rôle de product owner et ma constante envie de changement.
