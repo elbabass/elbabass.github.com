@@ -28,6 +28,8 @@ Une dizaine de Lean Canvas remplis en 10 minutes par groupe de 2 ou 3 ont permis
 
 ## Une mise en oeuvre inspirée de Lean Startup
 
+{% img right http://lean.st/images/startup-feedback-loop1.png?1315940898 %}
+
 Lean Startup nous montre comment effectuer des cycles Build -> Measure -> Learn pour créer de la valeur via l'apprentissage. Malgré l'aspect tout neuf de ce Lean Startup Dojo Bordelais, c'est grâce à une telle itération, débutées dès le mois de novembre 2012, que nous en sommes arrivés là.
 
 La première itération, un apéro informel sous forme de prise de température, permettait de mesurer quels étaient les centres d'intérêt des Lean Startupers. La deuxième, la retransmission de la [Lean Startup Conference](http://leanstartup.co/), a été l'occasion de tous nous rencontrer.
