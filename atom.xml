@@ -1,109 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Bastien Gallay</title>
-  <meta name="author" content="Bastien Gallay">
-
-  
-  <meta name="description" content="Le Lean Startup, ça ressemble un peu à se jeter à l&#8217;eau avant savoir nager. Et pourtant c&#8217;est la manière la plus sûre de réussir un &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://elbabass.github.com/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/atom.xml" rel="alternate" title="Bastien Gallay" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-33865532-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Bastien Gallay</a></h1>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:elbabass.github.com" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Bastien Gallay]]></title>
+  <link href="http://elbabass.github.com/atom.xml" rel="self"/>
+  <link href="http://elbabass.github.com/"/>
+  <updated>2013-08-24T22:54:06+02:00</updated>
+  <id>http://elbabass.github.com/</id>
+  <author>
+    <name><![CDATA[Bastien Gallay]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2013/03/15/lancement-des-lean-startup-dojos-a-bordeaux/">Lancement Des Lean Startup Dojos à Bordeaux</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2013-03-15T12:24:00+01:00" pubdate data-updated="true">Mar 15<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Le Lean Startup, ça ressemble un peu à se jeter à l&#8217;eau avant savoir nager. Et pourtant c&#8217;est la manière la plus sûre de réussir un projet d&#8217;innovation! (j&#8217;exagère à peine) A voir l&#8217;enthousiasme généré, nous l&#8217;avons bien démontré lors du premier <a href="http://www.meetup.com/Lean-Startup-Bordeaux/events/103288472/">Lean Startup Dojo Bordelais</a> qui a eu lieu lundi dernier. Comme pour la retransmission de la Lean Startup Conference, c&#8217;est <a href="http://coolworking.fr">l&#8217;espace de coworking Coolworking</a> qui nous a accueilli (et nous les remercions encore)</p>
+  <entry>
+    <title type="html"><![CDATA[Lancement des Lean Startup Dojos à Bordeaux]]></title>
+    <link href="http://elbabass.github.com/blog/2013/03/15/lancement-des-lean-startup-dojos-a-bordeaux/"/>
+    <updated>2013-03-15T12:24:00+01:00</updated>
+    <id>http://elbabass.github.com/blog/2013/03/15/lancement-des-lean-startup-dojos-a-bordeaux</id>
+    <content type="html"><![CDATA[<p>Le Lean Startup, ça ressemble un peu à se jeter à l&#8217;eau avant savoir nager. Et pourtant c&#8217;est la manière la plus sûre de réussir un projet d&#8217;innovation! (j&#8217;exagère à peine) A voir l&#8217;enthousiasme généré, nous l&#8217;avons bien démontré lors du premier <a href="http://www.meetup.com/Lean-Startup-Bordeaux/events/103288472/">Lean Startup Dojo Bordelais</a> qui a eu lieu lundi dernier. Comme pour la retransmission de la Lean Startup Conference, c&#8217;est <a href="http://coolworking.fr">l&#8217;espace de coworking Coolworking</a> qui nous a accueilli (et nous les remercions encore)</p>
 
 <h2>Présentation de Lean Startup</h2>
 
@@ -111,14 +26,14 @@
 
 <p>La présentation était au format 20 slides de 20 secondes, afin de donner une approche claire et fluide aux débutants sans ennuyer les plus avancés:</p>
 
-<script async class="speakerdeck-embed" data-id="f715c35070640130504c1231393df3e9" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="f715c35070640130504c1231393df3e9" data-ratio="1.33333333333333" src="http://elbabass.github.com//speakerdeck.com/assets/embed.js"></script>
 
 
 <h2>Mise en pratique avec Lean Canvas</h2>
 
 <p>La théorie, c&#8217;est toujours intéressant, mais le plus important c&#8217;est malgré tout la mise en pratique. Cette fois-ci, c&#8217;est le Lean Canvas, inspiré du livre d&#8217;<a href="http://www.amazon.fr/gp/product/1449305172/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1642&amp;creative=6746&amp;creativeASIN=1449305172&amp;linkCode=as2&amp;tag=postfolio0d-21">Ash Maurya, &#8220;Running Lean&#8221;</a>, qui a été notre thème grâce à la brillante présentation par <a href="http://www.volpeo.fr/">Sylvain Peigney</a>:</p>
 
-<script async class="speakerdeck-embed" data-id="b6fb44d06fbb0130d36022000a1e85c6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="b6fb44d06fbb0130d36022000a1e85c6" data-ratio="1.33333333333333" src="http://elbabass.github.com//speakerdeck.com/assets/embed.js"></script>
 
 
 <p>Fort de cette présentation simple, claire et illustrée d&#8217;<a href="http://nestweet.com/">un exemple concret</a> l&#8217;action est arrivée via un serious game dans lequel nous avons entrainé tout l&#8217;auditoire. L&#8217;objectif étant de créer le Lean Canvas d&#8217;un youtube spécialisé dans les <a href="http://fr.wikipedia.org/wiki/Lolcat">Lolcats</a>.</p>
@@ -149,7 +64,7 @@
 
 <h2>Merci à tous : on remet ça bientôt ?</h2>
 
-<p><img class="left" src="/images/2013-03-11_22.27.37-ROTI-Lean_Startup_Dojo.jpg"></p>
+<p><img class="left" src="http://elbabass.github.com/images/2013-03-11_22.27.37-ROTI-Lean_Startup_Dojo.jpg"></p>
 
 <p>A voir le ROTI (Return On Time Invested), c&#8217;était une bonne session. Merci donc à tous pour votre participation : dans tout évènement, c&#8217;est grâce au public qu&#8217;il existe. Nos échange et votre enthousiasme me donne envie de recommencer.</p>
 
@@ -171,42 +86,15 @@
 <h2>Et à la prochaine !</h2>
 
 <p>J&#8217;espère pouvoir vous revoir très bientôt pour le prochain Lean Startup Dojo Bordeaux. Je vous tiendrai au courant.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/10/17/nous-avons-fait-l-agile-tour-bordeaux-2012-ensemble/">Nous Avons Fait l&#8217;Agile Tour Bordeaux 2012, Ensemble !</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-10-17T22:08:00+02:00" pubdate data-updated="true">Oct 17<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Après plusieurs mois de labeur, de débats enflammés et de réunions de travail (autour de bières), nous vous avons livré notre produit : une journée entière de conférences, d&#8217;échanges et de rencontres autour de l&#8217;<a href="http://agilemanifesto.org/iso/fr/">agilité</a>. Je ne vais parler qu&#8217;en mon nom, mais j&#8217;imagine que mes 5 compagnons organisateurs en diraient autant : je suis fier du résultat obtenu. Nous avons consacré une bonne partie de notre temps libre à sa préparation, avec un rythme soutenable, des rushes, des pauses, et beaucoup de bonheur à chaque étape franchie. Laissez-moi vous &#8220;compter&#8221; quelques chiffres derrière l&#8217;<a href="http://agiletourbordeaux.okiwi.org/">Agile Tour Bordeaux 2012</a>.</p>
+  <entry>
+    <title type="html"><![CDATA[Nous avons fait l'Agile Tour Bordeaux 2012, Ensemble !]]></title>
+    <link href="http://elbabass.github.com/blog/2012/10/17/nous-avons-fait-l-agile-tour-bordeaux-2012-ensemble/"/>
+    <updated>2012-10-17T22:08:00+02:00</updated>
+    <id>http://elbabass.github.com/blog/2012/10/17/nous-avons-fait-l-agile-tour-bordeaux-2012-ensemble</id>
+    <content type="html"><![CDATA[<p>Après plusieurs mois de labeur, de débats enflammés et de réunions de travail (autour de bières), nous vous avons livré notre produit : une journée entière de conférences, d&#8217;échanges et de rencontres autour de l&#8217;<a href="http://agilemanifesto.org/iso/fr/">agilité</a>. Je ne vais parler qu&#8217;en mon nom, mais j&#8217;imagine que mes 5 compagnons organisateurs en diraient autant : je suis fier du résultat obtenu. Nous avons consacré une bonne partie de notre temps libre à sa préparation, avec un rythme soutenable, des rushes, des pauses, et beaucoup de bonheur à chaque étape franchie. Laissez-moi vous &#8220;compter&#8221; quelques chiffres derrière l&#8217;<a href="http://agiletourbordeaux.okiwi.org/">Agile Tour Bordeaux 2012</a>.</p>
 
 <h2>2 partenaires indispensables</h2>
 
@@ -262,126 +150,7 @@ C&#8217;est notre conviction en ces valeurs et l&#8217;envie de les partager qui
 <p>Nous avons donc tous ensemble créé des instants inoubliables, déclenché des actions et trouvé des pistes pour faire mieux l&#8217;an prochain. Alors en ce qui me concerne, oui, l&#8217;Agile Tour Bordeaux 2012 était une réussite.</p>
 
 <p>C&#8217;est grâce à tout le monde que nous avons réussi l&#8217;évènement. Merci à tous.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/03/15/lancement-des-lean-startup-dojos-a-bordeaux/">Lancement des Lean Startup Dojos à Bordeaux</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/10/17/nous-avons-fait-l-agile-tour-bordeaux-2012-ensemble/">Nous avons fait l&#8217;Agile Tour Bordeaux 2012, Ensemble !</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-<section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("bastien_gallay", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/bastien_gallay" class="twitter-follow-button" data-show-count="false">Follow @bastien_gallay</a>
-  
-</section>
-
-
-<section>
-  <h1>On Delicious</h1>
-  <div id="delicious"></div>
-  <script type="text/javascript" src="http://feeds.delicious.com/v2/json/elbabass?count=3&amp;sort=date&amp;callback=renderDeliciousLinks"></script>
-  <p><a href="http://delicious.com/elbabass">My Delicious Bookmarks &raquo;</a></p>
-</section>
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Bastien Gallay -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-<script type="text/javascript">
-      var disqus_shortname = 'bastiengallay';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-  <script type="text/javascript">
-    (function() {
-      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
-      script.src = 'https://apis.google.com/js/plusone.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
-    })();
-  </script>
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
