@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Bastien Gallay]]></title>
-  <link href="http://elbabass.github.com/atom.xml" rel="self"/>
-  <link href="http://elbabass.github.com/"/>
-  <updated>2013-08-24T23:07:23+02:00</updated>
-  <id>http://elbabass.github.com/</id>
+  <link href="http://bastien.gallay.org/atom.xml" rel="self"/>
+  <link href="http://bastien.gallay.org/"/>
+  <updated>2013-08-24T23:09:38+02:00</updated>
+  <id>http://bastien.gallay.org/</id>
   <author>
     <name><![CDATA[Bastien Gallay]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Que devient Lean Startup à Bordeaux?]]></title>
-    <link href="http://elbabass.github.com/blog/2013/08/24/que-devient-lean-startup-a-bordeaux/"/>
+    <link href="http://bastien.gallay.org/blog/2013/08/24/que-devient-lean-startup-a-bordeaux/"/>
     <updated>2013-08-24T22:00:00+02:00</updated>
-    <id>http://elbabass.github.com/blog/2013/08/24/que-devient-lean-startup-a-bordeaux</id>
-    <content type="html"><![CDATA[<p>Suite au succès du premier <a href="http://elbabass.github.com/blog/2013/03/15/lancement-des-lean-startup-dojos-a-bordeaux/">Lean Startup Dojo de Bordeaux</a>, j&#8217;ai été heureux de voir le <a href="http://www.meetup.com/Lean-Startup-Bordeaux/events/120444062/">succès de la deuxième édition</a>. Celui-ci a pris un peu de retard par rapport aux prévision, mais il a finalement eu lieu le 20 juin à <a href="http://coolworking.fr">Coolworking</a>, qui nous a encore une fois accueilli.</p>
+    <id>http://bastien.gallay.org/blog/2013/08/24/que-devient-lean-startup-a-bordeaux</id>
+    <content type="html"><![CDATA[<p>Suite au succès du premier <a href="http://bastien.gallay.org/blog/2013/03/15/lancement-des-lean-startup-dojos-a-bordeaux/">Lean Startup Dojo de Bordeaux</a>, j&#8217;ai été heureux de voir le <a href="http://www.meetup.com/Lean-Startup-Bordeaux/events/120444062/">succès de la deuxième édition</a>. Celui-ci a pris un peu de retard par rapport aux prévision, mais il a finalement eu lieu le 20 juin à <a href="http://coolworking.fr">Coolworking</a>, qui nous a encore une fois accueilli.</p>
 
 <p>Nous avons continué avec la même formule, une conférence courte, une longue, le tout de manière participative.</p>
 
@@ -52,9 +52,9 @@
   
   <entry>
     <title type="html"><![CDATA[Lancement des Lean Startup Dojos à Bordeaux]]></title>
-    <link href="http://elbabass.github.com/blog/2013/03/15/lancement-des-lean-startup-dojos-a-bordeaux/"/>
+    <link href="http://bastien.gallay.org/blog/2013/03/15/lancement-des-lean-startup-dojos-a-bordeaux/"/>
     <updated>2013-03-15T12:24:00+01:00</updated>
-    <id>http://elbabass.github.com/blog/2013/03/15/lancement-des-lean-startup-dojos-a-bordeaux</id>
+    <id>http://bastien.gallay.org/blog/2013/03/15/lancement-des-lean-startup-dojos-a-bordeaux</id>
     <content type="html"><![CDATA[<p>Le Lean Startup, ça ressemble un peu à se jeter à l&#8217;eau avant savoir nager. Et pourtant c&#8217;est la manière la plus sûre de réussir un projet d&#8217;innovation! (j&#8217;exagère à peine) A voir l&#8217;enthousiasme généré, nous l&#8217;avons bien démontré lors du premier <a href="http://www.meetup.com/Lean-Startup-Bordeaux/events/103288472/">Lean Startup Dojo Bordelais</a> qui a eu lieu lundi dernier. Comme pour la retransmission de la Lean Startup Conference, c&#8217;est <a href="http://coolworking.fr">l&#8217;espace de coworking Coolworking</a> qui nous a accueilli (et nous les remercions encore)</p>
 
 <h2>Présentation de Lean Startup</h2>
@@ -63,14 +63,14 @@
 
 <p>La présentation était au format 20 slides de 20 secondes, afin de donner une approche claire et fluide aux débutants sans ennuyer les plus avancés:</p>
 
-<script async class="speakerdeck-embed" data-id="f715c35070640130504c1231393df3e9" data-ratio="1.33333333333333" src="http://elbabass.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="f715c35070640130504c1231393df3e9" data-ratio="1.33333333333333" src="http://bastien.gallay.org//speakerdeck.com/assets/embed.js"></script>
 
 
 <h2>Mise en pratique avec Lean Canvas</h2>
 
 <p>La théorie, c&#8217;est toujours intéressant, mais le plus important c&#8217;est malgré tout la mise en pratique. Cette fois-ci, c&#8217;est le Lean Canvas, inspiré du livre d&#8217;<a href="http://www.amazon.fr/gp/product/1449305172/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1642&amp;creative=6746&amp;creativeASIN=1449305172&amp;linkCode=as2&amp;tag=postfolio0d-21">Ash Maurya, &#8220;Running Lean&#8221;</a>, qui a été notre thème grâce à la brillante présentation par <a href="http://www.volpeo.fr/">Sylvain Peigney</a>:</p>
 
-<script async class="speakerdeck-embed" data-id="b6fb44d06fbb0130d36022000a1e85c6" data-ratio="1.33333333333333" src="http://elbabass.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="b6fb44d06fbb0130d36022000a1e85c6" data-ratio="1.33333333333333" src="http://bastien.gallay.org//speakerdeck.com/assets/embed.js"></script>
 
 
 <p>Fort de cette présentation simple, claire et illustrée d&#8217;<a href="http://nestweet.com/">un exemple concret</a> l&#8217;action est arrivée via un serious game dans lequel nous avons entrainé tout l&#8217;auditoire. L&#8217;objectif étant de créer le Lean Canvas d&#8217;un youtube spécialisé dans les <a href="http://fr.wikipedia.org/wiki/Lolcat">Lolcats</a>.</p>
@@ -101,7 +101,7 @@
 
 <h2>Merci à tous : on remet ça bientôt ?</h2>
 
-<p><img class="left" src="http://elbabass.github.com/images/2013-03-11_22.27.37-ROTI-Lean_Startup_Dojo.jpg"></p>
+<p><img class="left" src="http://bastien.gallay.org/images/2013-03-11_22.27.37-ROTI-Lean_Startup_Dojo.jpg"></p>
 
 <p>A voir le ROTI (Return On Time Invested), c&#8217;était une bonne session. Merci donc à tous pour votre participation : dans tout évènement, c&#8217;est grâce au public qu&#8217;il existe. Nos échange et votre enthousiasme me donne envie de recommencer.</p>
 
@@ -128,9 +128,9 @@
   
   <entry>
     <title type="html"><![CDATA[Nous avons fait l'Agile Tour Bordeaux 2012, Ensemble !]]></title>
-    <link href="http://elbabass.github.com/blog/2012/10/17/nous-avons-fait-l-agile-tour-bordeaux-2012-ensemble/"/>
+    <link href="http://bastien.gallay.org/blog/2012/10/17/nous-avons-fait-l-agile-tour-bordeaux-2012-ensemble/"/>
     <updated>2012-10-17T22:08:00+02:00</updated>
-    <id>http://elbabass.github.com/blog/2012/10/17/nous-avons-fait-l-agile-tour-bordeaux-2012-ensemble</id>
+    <id>http://bastien.gallay.org/blog/2012/10/17/nous-avons-fait-l-agile-tour-bordeaux-2012-ensemble</id>
     <content type="html"><![CDATA[<p>Après plusieurs mois de labeur, de débats enflammés et de réunions de travail (autour de bières), nous vous avons livré notre produit : une journée entière de conférences, d&#8217;échanges et de rencontres autour de l&#8217;<a href="http://agilemanifesto.org/iso/fr/">agilité</a>. Je ne vais parler qu&#8217;en mon nom, mais j&#8217;imagine que mes 5 compagnons organisateurs en diraient autant : je suis fier du résultat obtenu. Nous avons consacré une bonne partie de notre temps libre à sa préparation, avec un rythme soutenable, des rushes, des pauses, et beaucoup de bonheur à chaque étape franchie. Laissez-moi vous &#8220;compter&#8221; quelques chiffres derrière l&#8217;<a href="http://agiletourbordeaux.okiwi.org/">Agile Tour Bordeaux 2012</a>.</p>
 
 <h2>2 partenaires indispensables</h2>
