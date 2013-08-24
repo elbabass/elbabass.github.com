@@ -3,7 +3,7 @@ layout: post
 title: "Lancement des Lean Startup Dojos à Bordeaux"
 date: 2013-03-15 12:24
 comments: true
-categories: évènements
+categories: évènements, Lean Startup
 ---
 
 Le Lean Startup, ça ressemble un peu à se jeter à l'eau avant savoir nager. Et pourtant c'est la manière la plus sûre de réussir un projet d'innovation! (j'exagère à peine) A voir l'enthousiasme généré, nous l'avons bien démontré lors du premier [Lean Startup Dojo Bordelais](http://www.meetup.com/Lean-Startup-Bordeaux/events/103288472/) qui a eu lieu lundi dernier. Comme pour la retransmission de la Lean Startup Conference, c'est [l'espace de coworking Coolworking](http://coolworking.fr) qui nous a accueilli (et nous les remercions encore)
